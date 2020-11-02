@@ -1,0 +1,9 @@
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m---------------------------< [0;36mstudy:labfive[0;1m >----------------------------[m
+[[1;34mINFO[m] [1mBuilding labfive 1.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-enforcer-plugin:3.0.0-M3:enforce[m [1m(default)[m @ [36mlabfive[0;1m ---[m
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-checkstyle-plugin:3.1.0:check[m [1m(checkstyle)[m @ [36mlabfive[0;1m ---[m
